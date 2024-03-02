@@ -1,6 +1,6 @@
 # Analysis Employee Survey Responses
 
-![](employee_pic/jpg)
+![](employee_pic.jpg)
 
 ## Introduction
 
@@ -31,10 +31,10 @@ Employees agreed with question 9 “My department is inclusive and demonstrates 
 
 Agree     |     Strongly agree
 ----------|-------------
-![]()|![]()
+![](agree.png)|![](strongly_agree.png)
 
 Employees disagreed with question 6 “I have a best friend at work” the most, having a total of 938 responses. They also strongly disagreed with question 3 “In the last seven days, I have received recognition or praise for doing good work” the most, having a total of 189 responses.
 
 Disgree     |     Strongly disagree
 ----------|-------------
-![]()|![]()
+![](disagree.png)|![](strongly_disagree.png)

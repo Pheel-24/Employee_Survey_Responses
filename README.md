@@ -29,12 +29,24 @@ No modeling was done because only one table was given in the dataset.
 
 Employees agreed with question 9 “My department is inclusive and demonstrates support of a diverse workforce” the most, having a total of 1,989 responses. They also strongly agreed with question 1 “I know what is expected of me at work” the most, having a total of 3,384 responses.
 
-Agree     |     Strongly agree
+Agree     |     Strongly Agree
 ----------|-------------
-![](agree.png)|![](strongly_agree.png)
+![](agree.png)|![](strongly_agree1.png)
 
 Employees disagreed with question 6 “I have a best friend at work” the most, having a total of 938 responses. They also strongly disagreed with question 3 “In the last seven days, I have received recognition or praise for doing good work” the most, having a total of 189 responses.
 
-Disgree     |     Strongly disagree
+Disagree     |     Strongly Disagree
 ----------|-------------
-![](disagree.png)|![](strongly_disagree.png)
+![](disagree.png)|![](strongly_disagree1.png)
+
+2. Do you see any patterns or trends by department or role?
+
+It was noticed that the planning and public works department had 4,663 out of 14,575 responses (about 32% of the total responses) from 21 departments which is the largest number of responses per department. 
+
+![]()
+
+This greatly influenced the overall responses to the questions posed during the survey with 765 of the 1,989 (about 38.5%) responses agreeing to question 9 and 996 of the 3,384 (about 29.4%) responses strongly agreeing to question 1. Also having 310 of the 938 (about 33%) responses disagreeing to question 6.
+
+Agree      |    Strongly Agree     |     Disagree
+-----------|-----------------------|-------------
+![]()      |![]()                  |![]()
